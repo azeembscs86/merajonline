@@ -1,0 +1,69 @@
+[05-Nov-2015 01:37:58 CST6CDT] PHP Notice:  Undefined index: password in /home/tfkids/public_html/incredibles/register_user.php on line 9
+[05-Nov-2015 01:37:59 CST6CDT] PHP Notice:  Undefined variable: name in /home/tfkids/public_html/incredibles/register_user.php on line 43
+[05-Nov-2015 01:37:59 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/register_user.php:9) in /home/tfkids/public_html/incredibles/register_user.php on line 53
+[05-Nov-2015 01:55:10 CST6CDT] PHP Notice:  Undefined index: password in /home/tfkids/public_html/incredibles/register_user.php on line 9
+[05-Nov-2015 01:55:10 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/register_user.php:9) in /home/tfkids/public_html/incredibles/register_user.php on line 53
+[05-Nov-2015 02:05:23 CST6CDT] PHP Notice:  Undefined index: password in /home/tfkids/public_html/incredibles/register_user.php on line 9
+[05-Nov-2015 02:05:23 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/register_user.php:9) in /home/tfkids/public_html/incredibles/register_user.php on line 54
+[05-Nov-2015 02:21:41 CST6CDT] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/tfkids/public_html/incredibles/register_user.php on line 55
+[05-Nov-2015 02:23:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/tfkids/public_html/incredibles/register_user.php on line 55
+[05-Nov-2015 02:31:12 CST6CDT] PHP Notice:  Undefined index: is_subscribed in /home/tfkids/public_html/incredibles/register_user.php on line 26
+[05-Nov-2015 02:31:13 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/register_user.php:26) in /home/tfkids/public_html/incredibles/register_user.php on line 55
+[05-Nov-2015 02:47:42 CST6CDT] PHP Parse error:  syntax error, unexpected '$base_url' (T_VARIABLE) in /home/tfkids/public_html/incredibles/register_user.php on line 44
+[05-Nov-2015 02:48:48 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/tfkids/public_html/incredibles/register_user.php on line 44
+[05-Nov-2015 02:53:28 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/activation.php:8) in /home/tfkids/public_html/incredibles/activation.php on line 15
+[05-Nov-2015 02:56:30 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/activation.php:8) in /home/tfkids/public_html/incredibles/activation.php on line 18
+[05-Nov-2015 03:08:54 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/activation.php:8) in /home/tfkids/public_html/incredibles/activation.php on line 15
+[05-Nov-2015 03:08:54 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/activation.php:8) in /home/tfkids/public_html/incredibles/activation.php on line 25
+[05-Nov-2015 03:14:47 CST6CDT] PHP Notice:  Undefined variable: row in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 15
+[05-Nov-2015 03:14:47 CST6CDT] PHP Notice:  Undefined variable: hostname in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 15
+[05-Nov-2015 03:14:48 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/paswword-forgot.php:15) in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 23
+[05-Nov-2015 03:55:11 CST6CDT] PHP Notice:  Undefined variable: row in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 15
+[05-Nov-2015 03:55:11 CST6CDT] PHP Notice:  Undefined variable: hostname in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 15
+[05-Nov-2015 03:55:11 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/paswword-forgot.php:15) in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 23
+[05-Nov-2015 03:56:26 CST6CDT] PHP Parse error:  syntax error, unexpected '[' in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 15
+[05-Nov-2015 03:56:57 CST6CDT] PHP Notice:  Undefined index: name in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 15
+[05-Nov-2015 03:56:57 CST6CDT] PHP Notice:  Undefined variable: hostname in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 15
+[05-Nov-2015 03:56:57 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/paswword-forgot.php:15) in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 23
+[05-Nov-2015 03:57:54 CST6CDT] PHP Notice:  Undefined variable: hostname in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 15
+[05-Nov-2015 03:57:54 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/paswword-forgot.php:15) in /home/tfkids/public_html/incredibles/paswword-forgot.php on line 23
+[05-Nov-2015 06:29:24 CST6CDT] PHP Fatal error:  Call to undefined function getProductColorsByProductId() in /home/tfkids/public_html/incredibles/productdetails.php on line 242
+[08-Nov-2015 12:22:17 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tfkids/public_html/incredibles/create_customer_order.php:29) in /home/tfkids/public_html/incredibles/create_customer_order.php on line 31
+[08-Nov-2015 13:00:53 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/tfkids/public_html/incredibles/payment_receipt.php on line 193
+[10-Nov-2015 01:26:34 CST6CDT] PHP Warning:  Variable passed to each() is not an array or object in /home/tfkids/public_html/incredibles/testcart.php on line 10
+[10-Nov-2015 01:29:49 CST6CDT] PHP Notice:  Undefined variable: mesage in /home/tfkids/public_html/incredibles/testcart.php on line 24
+[10-Nov-2015 01:33:01 CST6CDT] PHP Notice:  Undefined variable: mesage in /home/tfkids/public_html/incredibles/testcart.php on line 22
+[10-Nov-2015 01:51:07 CST6CDT] PHP Warning:  Variable passed to each() is not an array or object in /home/tfkids/public_html/incredibles/testcart.php on line 8
+[10-Nov-2015 01:51:41 CST6CDT] PHP Parse error:  syntax error, unexpected '100' (T_LNUMBER) in /home/tfkids/public_html/incredibles/testcart.php on line 42
+[10-Nov-2015 01:52:03 CST6CDT] PHP Warning:  Variable passed to each() is not an array or object in /home/tfkids/public_html/incredibles/testcart.php on line 8
+[10-Nov-2015 01:52:41 CST6CDT] PHP Warning:  Variable passed to each() is not an array or object in /home/tfkids/public_html/incredibles/testcart.php on line 8
+[10-Nov-2015 02:54:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'button' (T_STRING) in /home/tfkids/public_html/incredibles/testcart.php on line 58
+[10-Nov-2015 03:32:25 CST6CDT] PHP Warning:  Variable passed to each() is not an array or object in /home/tfkids/public_html/incredibles/addtocartpage.php on line 49
+[10-Nov-2015 03:32:25 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 59
+[10-Nov-2015 03:32:25 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 60
+[10-Nov-2015 03:32:25 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 65
+[10-Nov-2015 03:32:25 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 70
+[10-Nov-2015 03:32:28 CST6CDT] PHP Warning:  Variable passed to each() is not an array or object in /home/tfkids/public_html/incredibles/addtocartpage.php on line 49
+[10-Nov-2015 03:32:28 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 59
+[10-Nov-2015 03:32:28 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 60
+[10-Nov-2015 03:32:28 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 65
+[10-Nov-2015 03:32:28 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 70
+[16-Nov-2015 02:42:17 CST6CDT] PHP Notice:  Undefined index: latestordernumber in /home/tfkids/public_html/incredibles/order_email_send.php on line 58
+[16-Nov-2015 02:42:17 CST6CDT] PHP Notice:  Undefined index: latestordernumber in /home/tfkids/public_html/incredibles/order_email_send.php on line 60
+[16-Nov-2015 02:42:17 CST6CDT] PHP Notice:  Undefined index: loged_email in /home/tfkids/public_html/incredibles/order_email_send.php on line 69
+[16-Nov-2015 03:14:21 CST6CDT] PHP Notice:  Undefined index: latestordernumber in /home/tfkids/public_html/incredibles/order_email_send.php on line 63
+[16-Nov-2015 03:14:21 CST6CDT] PHP Notice:  Undefined index: latestordernumber in /home/tfkids/public_html/incredibles/order_email_send.php on line 65
+[16-Nov-2015 03:14:21 CST6CDT] PHP Notice:  Undefined index: loged_email in /home/tfkids/public_html/incredibles/order_email_send.php on line 74
+[16-Nov-2015 04:05:39 CST6CDT] PHP Warning:  Variable passed to each() is not an array or object in /home/tfkids/public_html/incredibles/addtocartpage.php on line 49
+[16-Nov-2015 04:05:39 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 59
+[16-Nov-2015 04:05:39 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 60
+[16-Nov-2015 04:05:39 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 65
+[16-Nov-2015 04:05:39 CST6CDT] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/tfkids/public_html/incredibles/addtocartpage.php on line 70
+[17-Jan-2016 16:25:50 CST6CDT] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tfkids/public_html/incredibles/dbconnection.php on line 8
+[17-Jan-2016 16:25:52 CST6CDT] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/tfkids/public_html/incredibles/dbconnection.php on line 8
+[22-Feb-2016 07:50:06 CST6CDT] PHP Notice:  Undefined variable: N in /home/golivecom/public_html/clients/merajonline/dbconnection.php on line 7
+[22-Feb-2016 07:50:06 CST6CDT] PHP Warning:  mysql_connect(): Access denied for user 'goliveco_onlinem'@'localhost' (using password: YES) in /home/golivecom/public_html/clients/merajonline/dbconnection.php on line 9
+[22-Feb-2016 07:50:52 CST6CDT] PHP Notice:  Undefined variable: N in /home/golivecom/public_html/clients/merajonline/dbconnection.php on line 7
+[22-Feb-2016 07:50:52 CST6CDT] PHP Warning:  mysql_connect(): Access denied for user 'goliveco_onlinem'@'localhost' (using password: YES) in /home/golivecom/public_html/clients/merajonline/dbconnection.php on line 9
+[10-Mar-2016 05:49:13 America/Chicago] PHP Notice:  Undefined variable: AEKL in /home1/meraj/public_html/dbconnection.php on line 7
+[10-Mar-2016 05:49:13 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'meraj_onlinem'@'localhost' (using password: YES) in /home1/meraj/public_html/dbconnection.php on line 9

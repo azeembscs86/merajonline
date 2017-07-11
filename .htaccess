@@ -1,0 +1,51 @@
+Options +FollowSymLinks
+RewriteEngine on
+errordocument 404 /404.php
+RewriteRule ^clothes$ new-products.php [NC,L]
+RewriteRule ^jewellery$ jewellery.php [NC,L]
+RewriteRule ^hand-bags$ hand-bangs.php [NC,L]
+RewriteRule ^watches$ watches.php [NC,L]
+RewriteRule ^product-details$ productdetails.php [NC,L]
+RewriteRule ^cart_page$ add_to_cart.php [NC,L]
+RewriteRule ^update-total-amount$ update_total_amount.php [NC,L]
+RewriteRule ^update-total-item-added$ update_total_item_added.php [NC,L]
+RewriteRule ^Frocks$ frocks.php [NC,L]
+RewriteRule ^Rompers$ rompers.php [NC,L]
+RewriteRule ^T-Shirts$ t_shirts.php [NC,L]
+RewriteRule ^Shorts-knickers$ shorts_knicker.php [NC,L]
+RewriteRule ^Hoodies$ hoodies.php [NC,L]
+RewriteRule ^Tuxedo$ tuxedo.php [NC,L]
+RewriteRule ^Jackets$ jackets.php [NC,L]
+RewriteRule ^register-new-user$ user_register.php [NC,L]
+RewriteRule ^create-new-user$ register_user.php [NC,L]
+RewriteRule ^thanks-register$ register_thanks.php [NC,L]
+RewriteRule ^user-login$ user_login.php [NC,L]
+RewriteRule ^register-user-login$ userlogin.php [NC,L]
+RewriteRule ^login-error$ login-error.php [NC,L]
+RewriteRule ^forgot-password$ forgot-password.php [NC,L]
+RewriteRule ^paswword-forgot$ paswword-forgot.php [NC,L]
+RewriteRule ^reset-password$ reset-password.php [NC,L]
+RewriteRule ^passsword-reset$ passsword-reset.php [NC,L]
+RewriteRule ^user-profile$ user_profile.php [NC,L]
+RewriteRule ^edit-profile$ edit_profile.php [NC,L]
+RewriteRule ^logout$ logout.php [NC,L]
+RewriteRule ^shipping-address$ shipping_address.php [NC,L]
+RewriteRule ^shipping$ shipping.php [NC,L]
+RewriteRule ^create-customer-order$ create_customer_order.php [NC,L]
+RewriteRule ^payment-receipt$ payment_receipt.php [NC,L]
+RewriteRule ^contact-us$ contact_us.php [NC,L]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
